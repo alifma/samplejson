@@ -1,0 +1,56 @@
+[
+    {
+        "id": "box1",
+        "name": "Margherita Pizza",
+        "price": 9.99,
+        "image": "https://picsum.photos/200/300?random=1"
+    },
+    {
+        "id": "box2",
+        "name": "Cheeseburger",
+        "price": 8.49,
+        "image": "https://picsum.photos/200/300?random=2"
+    },
+    {
+        "id": "box3",
+        "name": "Caesar Salad",
+        "price": 7.99,
+        "image": "https://picsum.photos/200/300?random=3"
+    },
+    {
+        "id": "box4",
+        "name": "Pasta Carbonara",
+        "price": 12.00,
+        "image": "https://picsum.photos/200/300?random=4"
+    },
+    {
+        "id": "box5",
+        "name": "Grilled Chicken",
+        "price": 10.50,
+        "image": "https://picsum.photos/200/300?random=5"
+    },
+    {
+        "id": "box6",
+        "name": "Sushi Platter",
+        "price": 15.00,
+        "image": "https://picsum.photos/200/300?random=6"
+    },
+    {
+        "id": "box7",
+        "name": "Vegetable Stir Fry",
+        "price": 8.99,
+        "image": "https://picsum.photos/200/300?random=7"
+    },
+    {
+        "id": "box8",
+        "name": "Fish Tacos",
+        "price": 11.50,
+        "image": "https://picsum.photos/200/300?random=8"
+    },
+    {
+        "id": "box9",
+        "name": "Chocolate Cake",
+        "price": 4.99,
+        "image": "https://picsum.photos/200/300?random=9"
+    }
+]
